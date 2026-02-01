@@ -25,7 +25,7 @@ Passionnée par la transformation des données brutes en décisions stratégique
 - **Outils :** SAS, SQL.
 - **Résultats :** Création de KPIs de ponctualité par région.
 
-#### 2. [Credeal - Scoring Client] (https://github.com/azoulim/credeal)
+#### 2. [Credeal - Scoring Client](https://github.com/azoulim/credeal)
 *Développement d'un moteur de scoring pour prédire le risque client.*
 - **Objectif :** Aider à la décision d'octroi de crédit via une interface web.
 - **Outils :** Python, Scikit-learn, Streamlit, Docker.
