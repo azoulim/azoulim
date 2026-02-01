@@ -31,7 +31,7 @@ Passionnée par la transformation des données brutes en décisions stratégique
 - **Outils :** Python, Scikit-learn, Streamlit, Docker.
 - **Résultats :** Application déployée avec simulation en temps réel.
 
-#### 3. [Segmentation des Salaires & Insertion] (github.com/azoulim/insertion_professionnelle)
+#### 3. [Segmentation des Salaires & Insertion](https://github.com/azoulim/insertion_professionnelle)
 *Étude des disparités salariales à la sortie de Master.*
 - **Objectif :** Créer des typologies de profils (Clustering) pour comprendre l'insertion pro.
 - **Outils :** R, Power BI.
